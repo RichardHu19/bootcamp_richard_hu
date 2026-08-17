@@ -1,0 +1,2 @@
+This project examines whether recent market price movements and expected volatility can be used to determine an appropriate amount of leverage to maximize risk-adjusted returns. The primary stakeholders and users are active traders or portfolio managers. The model output would be used at the end of the trading day to determine the amount of leverage to allocate for the next day, providing a prescriptive answer ranging from 0-2x.
+
