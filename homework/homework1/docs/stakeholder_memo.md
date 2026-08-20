@@ -18,8 +18,8 @@ The answer is predictive, as the model outputs the optimal amount of leverage to
 Goal → Stage → Deliverable 
 - Define the problem and objective -> Framing & Scoping (Stage 01) -> Stakeholder memo
 ## Repo Plan 
-data/ - historical stock market data
-src/ - trading model
-notebooks/ - data analysis
-docs/ - documentation
-Weekly updates
+data/ - historical stock market data  
+src/ - trading model  
+notebooks/ - data analysis  
+docs/ - documentation  
+Weekly updates  
